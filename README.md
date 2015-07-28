@@ -1,5 +1,7 @@
 # Welcome, weary traveller. 
 
+[Go to the full guide here >>](https://github.com/datascopeanalytics/representing-datascope/blob/master/representing-datascope.md)
+
 ## What is this thing?
 
 This is a respository to help you represent Datascope well graphically, verbally, and otherwise. It might be called a branding guide or branding guidelines in other circles, but I kinda feel like a douchebag when I use the word "brand" too much.
