@@ -1,7 +1,7 @@
 # *Representing Datascope*
 # Table of Contents
 <!--TOC-->
-
+<!-- Note: the above snippet expands into a table of contents when rendered using Marked -->
 # Brand DNA
 
 ## LOL, what’s "Brand DNA"?
