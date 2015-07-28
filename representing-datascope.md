@@ -14,7 +14,7 @@ These 9 words represent clusters of words that the Marketing Doodie came up with
 
 These values can be a good litmus test to see if something is "Datascopey" or not. Take them into consideration in your visual design, writing, speaking, and other communications that represent Datascope.
 
-This **doesn’t **mean you should start writing website copy or blog posts about how diverse, generous, and unique we are. Lots of companies say these things, but saying it doesn’t make it true, and it can come across as disingenuous. Instead, *strive to do work that proves at least some of these values*, and at a minimum doesn’t actively oppose them.
+This **doesn’t** mean you should start writing website copy or blog posts about how diverse, generous, and unique we are. Lots of companies say these things, but saying it doesn’t make it true, and it can come across as disingenuous. Instead, *strive to do work that proves at least some of these values*, and at a minimum doesn’t actively oppose them.
 
 Here we go, in no particular order.
 
