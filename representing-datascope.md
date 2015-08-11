@@ -192,7 +192,7 @@ We may be boring, but damn if we aren’t useful. The majority of your designs s
 
 Use me as your background color for most things. I know I’m a little plain, but you can put hand-drawn sketches on me and they won’t look like shit. Also, I’m printer friendly.
 
-**Gray (aka [Dabbs Greer](http://www.imdb.com/name/nm0339428/?ref_=nmbio_bio_nm))**
+**Gray (aka Dabbs Greer[*](http://www.imdb.com/name/nm0339428/?ref_=nmbio_bio_nm))**
 
 **#DDDDDD**
 
