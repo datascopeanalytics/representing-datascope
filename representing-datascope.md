@@ -148,7 +148,7 @@ We’re still figuring out the details on how these will be used, but they’re 
 
 # Color
 
-p(these standards change significantly) = .25
+p(these standards change significantly) = .15
 
 *"...independent of harmony rules, any color ‘goes’ or works’ with any other color, presupposing that their quantities are appropriate." - Josef Albers, Interaction of Color*
 
@@ -162,7 +162,7 @@ This palette is in v5 and still being iterated on. You can see all the past iter
 
 **Datascope Orange (aka "First Tangerine to Die")**
 
-**#ff6000 • rgb(255, 96, 0)**
+**#ff6000 • rgb(255, 96, 0) • Pantone 1505 (50% orange 021, 50% transparent white)**
 
 Use me for representing Datascope using a single color. Good places to use me: the logo
 
@@ -174,13 +174,13 @@ Use us for adding pops of color to your designs. We’re pretty opinionated, so 
 
 ![image alt text](img/image_9.png)
 
-**Blue** (aka "Arctic Azimuth Azure") - **#****008EF5 • rgb(0, 142, 245)**
+**Blue** (aka "Arctic Azimuth Azure") - **008EF5 • rgb(0, 142, 245) • Pantone 2727 (25% Blue 072, 75% transparent white)**
 
-**Magenta** (aka "Bruiser Woods") - **#****FF15AB • rgb(255, 21, 171)**
+**Magenta** (aka "Bruiser Woods") - **FF15AB • rgb(255, 21, 171) • Pantone Rhodamine Red **
 
-**Yellow** (aka "Limoncello Devito"[*](https://www.youtube.com/watch?v=hzpu5EES8pE)) - **#F3ED00 • rgb(243, 237, 0)**
+**Yellow** (aka "Limoncello Devito"[*](https://www.youtube.com/watch?v=hzpu5EES8pE)) - **#F3ED00 • rgb(243, 237, 0) • Pantone 102 (50% yellow, 50% transparent white) **
 
-**Green** (aka "Paris on Prozac" ) - **#00CC66 • rgb(0, 204, 102)**
+**Green** (aka "Paris on Prozac") - **#00CC66 • rgb(0, 204, 102) • Pantone 7480 (43.7% Green, 6.3% Yellow, 50% transparent white)**
 
 ### Neutral Colors:
 
@@ -194,21 +194,24 @@ Use me as your background color for most things. I know I’m a little plain, bu
 
 **Gray (aka Dabbs Greer[*](http://www.imdb.com/name/nm0339428/?ref_=nmbio_bio_nm))**
 
-**#DDDDDD**
+**#DDDDDD • Pantone Solid Cool Gray 1 (99.6% Transparent White, .28% Black, .12% Blue 072)**
 
 I’m for when you need something de-emphasized and there’s no other easy way to do it. Most of the time my parents White and DNB make for a cleaner, higher-contrast look, but sometimes you just need a nice gray.
 
 **Damn Near Black**
 
-**#141414**
+**#141414 • Pantone Solid Neutral Black**
 
 The literal yin to White’s yang, I’m good for foreground elements like text. Occasionally if you need to flip the script, I can be a background and White can become the foreground color.
 
 **_Rumor has it White and DNB may have more children soon, but they’re thinking very hard about how many they need and for what purpose._**
 
-## What about if I’m printing something professionally?
+### *A quick note about Pantone colors*
+Pantone is a company that makes standards for reproducing ink colors. Their colors are essentially recipes that can be made out of 14 base pigments which Pantone ensures stay the same over time. These are called "spot colors". These will potentially be helpful if you're having something professionally printed, like paper designs, swag, or vinyl stickers. If you're screen printing on your own, they may also be helpful guides for mixing your own colors. 
 
-We’re well aware that many of these colors are not reproducible in CMYK— worthy alternatives or Pantone colors will come later. (who the hell prints physical things anymore anyway?)
+Note that they aren't exact 1:1 duplications of our official colors (the RGB definitions are the canonical colors), but rather matches for print that we picked out to look relatively nice. There are "coated" (C) and "uncoated" (U) formulations for each of these colors depending on the type of paper/material being printed on; use whichever is appropriate.
+
+In many cases printers don't make inks out of Pantone's base pigments but instead out of CMYK (cyan, magenta, yellow, and black) inks, and so they have a narrower gamut of colors they can cover (but it's much less expensive for them and things like photographs can be easily translated). These are called "process colors". Pantone offers conversions of their colors into something close in CMYK— the printer you work with should have guides for making these conversions. You can read more here.
 
 # Copy Style
 
