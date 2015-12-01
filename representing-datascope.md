@@ -174,11 +174,11 @@ Use us for adding pops of color to your designs. We’re pretty opinionated, so 
 
 ![image alt text](img/image_9.png)
 
-**Blue** (aka "Arctic Azimuth Azure") - **008EF5 • rgb(0, 142, 245) • Pantone 2727 (25% Blue 072, 75% transparent white)**
+**Blue** (aka "Arctic Azimuth Azure") - **#008EF5 • rgb(0, 142, 245) • Pantone 2727 (25% Blue 072, 75% transparent white)**
 
-**Magenta** (aka "Bruiser Woods") - **FF15AB • rgb(255, 21, 171) • Pantone Rhodamine Red **
+**Magenta** (aka "Bruiser Woods") - **#FF15AB • rgb(255, 21, 171) • Pantone Rhodamine Red**
 
-**Yellow** (aka "Limoncello Devito"[*](https://www.youtube.com/watch?v=hzpu5EES8pE)) - **#F3ED00 • rgb(243, 237, 0) • Pantone 102 (50% yellow, 50% transparent white) **
+**Yellow** (aka "Limoncello Devito"[*](https://www.youtube.com/watch?v=hzpu5EES8pE)) - **#F3ED00 • rgb(243, 237, 0) • Pantone 102 (50% yellow, 50% transparent white)**
 
 **Green** (aka "Paris on Prozac") - **#00CC66 • rgb(0, 204, 102) • Pantone 7480 (43.7% Green, 6.3% Yellow, 50% transparent white)**
 
