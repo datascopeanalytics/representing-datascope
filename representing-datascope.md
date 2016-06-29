@@ -142,9 +142,10 @@ Some tips:
 
 ## ![image alt text](img/image_8.png)
 
-Think of these as different colored laser beams, bouncing across the page. They should always be relatively thin like above, and should span the width or height of whatever you’re applying them to (aka, don’t make them islands).
+Think of these as different colored laser beams, bouncing across the page. They should always be relatively thin in comparison to the length of each "zig" like above, and should span the width or height of whatever you’re applying them to (aka, don’t make them islands). A "multiply" blend mode also makes their overlap form new colors the way translucent things might. 
 
-We’re still figuring out the details on how these will be used, but they’re unique, Datascope-y, work in a variety of colors, and are generally v.nice. More details to follow once we figure out how they can best be used.
+They’re unique, Datascope-y, work in a variety of colors, and are generally v.nice. Here are some examples of use:
+![](img/handbook_cover.png) ![](img/website.png) ![](img/letter.png)
 
 # Color
 
